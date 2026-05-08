@@ -4,6 +4,25 @@
     padding: 0;
 }
 
+:root {
+  --color-caja-1: #d9ed92;
+  --color-caja-2: #b5e48c;
+  --color-caja-3: #99d98c;
+  --color-caja-4: #76c893;
+  --color-caja-5: #3498db;
+  --color-caja-6: #3498db;
+  --color-caja-7: #3498db;
+  --color-caja-8: #3498db;
+  --color-caja-9: #3498db;
+  --color-caja-10: #3498db;
+  --color-caja-11: #3498db;
+  --color-caja-12: #3498db;
+  --color-caja-13: #3498db;
+  --color-caja-14: #3498db;
+  --color-caja-15: #3498db;
+  --color-texto: rgb(0, 0, 0);
+}
+
 body {
     background-color: rgb(4, 15, 73);
 }
