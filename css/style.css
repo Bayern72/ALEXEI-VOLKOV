@@ -346,6 +346,16 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.interesado {
+    transition: transform 0.3s ease-in-out;
+}
+
+.interesado:hover {
+    transform: scale(1.08);
+    transition: transform 0.3s ease;
+}
+
 .caja12 {
     background-color: var(--color-caja-12);
     padding: 0 !important;
@@ -354,6 +364,17 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.simpatico {
+    transition: transform 0.3s ease-in-out;
+}
+
+.simpatico:hover {
+    transform: scale(1.08);
+    transition: transform 0.3s ease;
+}
+
+
 .caja13 {
     background-color: var(--color-caja-13);
     padding: 0 !important;
@@ -362,6 +383,17 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.triste {
+    transition: transform 0.3s ease-in-out;
+}
+
+.triste:hover {
+    transform: scale(1.08);
+    transition: transform 0.3s ease;
+}
+
+
 .caja14 {
     background-color: var(--color-caja-14);
     padding: 0 !important;
@@ -370,6 +402,17 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.enojado {
+    transition: transform 0.3s ease-in-out;
+}
+
+.enojado:hover {
+    transform: scale(1.08);
+    transition: transform 0.3s ease;
+}
+
+
 .caja15 {
     background-color: var(--color-caja-15);
     padding: 0 !important;
@@ -377,4 +420,13 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.asombrado {
+    transition: transform 0.3s ease-in-out;
+}
+
+.asombrado:hover {
+    transform: scale(1.08);
+    transition: transform 0.3s ease;
 }
